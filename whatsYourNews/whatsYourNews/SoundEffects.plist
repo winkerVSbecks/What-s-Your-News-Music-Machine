@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kAudioMixerScene</key>
+	<dict>
+		<key>BEEP_BEEP</key>
+		<string>beepbeep.wav</string>
+		<key>ANT_TRUMPET</key>
+		<string>Ant Trumpet.wav</string>
+		<key>CHIMES</key>
+		<string>Chimes.wav</string>
+		<key>RASPBERRY</key>
+		<string>Rasberry 1.wav</string>
+		<key>TABLA</key>
+		<string>Tabla.wav</string>
+		<key>TAOURINE</key>
+		<string>Tambourine.wav</string>
+		<key>YODEL</key>
+		<string>Yodel.wav</string>
+		<key>WHISTLE</key>
+		<string>whistle.wav</string>
+		<key>TARZAN</key>
+		<string>tarzan.wav</string>
+		<key>SNARE</key>
+		<string>snare.wav</string>
+		<key>THIS_JUST_IN</key>
+		<string>thisJustIn.wav</string>
+		<key>FX</key>
+		<string>fx.wav</string>
+		<key>AGOGO</key>
+		<string>agogo.wav</string>
+		<key>GUITAR</key>
+		<string>guitar.wav</string>
+		<key>STNG11</key>
+		<string>stng11.wav</string>
+	</dict>
+	<key>kGIAntAudioRecorderScene</key>
+	<dict/>
+	<key>kGIAntCameraScene</key>
+	<dict/>
+</dict>
+</plist>

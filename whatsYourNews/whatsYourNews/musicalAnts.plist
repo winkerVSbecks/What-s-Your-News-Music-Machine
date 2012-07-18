@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AntonyAnim</key>
+	<dict>
+		<key>filenamePrefix</key>
+		<string>Antony_</string>
+		<key>delay</key>
+		<real>0.1</real>
+		<key>animationFrames</key>
+		<string>1,2,3,4,5</string>
+	</dict>
+	<key>GrantAnim</key>
+	<dict>
+		<key>filenamePrefix</key>
+		<string>Grant_</string>
+		<key>delay</key>
+		<real>0.1</real>
+		<key>animationFrames</key>
+		<string>1,2,3,4,5,6,7,8,9,10,11,12</string>
+	</dict>
+	<key>DrummerAnim</key>
+	<dict>
+		<key>filenamePrefix</key>
+		<string>Drummer_</string>
+		<key>delay</key>
+		<real>0.1</real>
+		<key>animationFrames</key>
+		<string>1,2,3,4,5,6,7</string>
+	</dict>
+	<key>TrumpetAnim</key>
+	<dict>
+		<key>filenamePrefix</key>
+		<string>Trumpet_</string>
+		<key>delay</key>
+		<real>0.1</real>
+		<key>animationFrames</key>
+		<string>1,2,3,4</string>
+	</dict>
+	<key>SingerAnim</key>
+	<dict>
+		<key>filenamePrefix</key>
+		<string>Singer_</string>
+		<key>delay</key>
+		<real>0.2</real>
+		<key>animationFrames</key>
+		<string>1,2,3,4,5,6,7</string>
+	</dict>
+</dict>
+</plist>
